@@ -1,61 +1,205 @@
 #EXTM3U
-#EXTINF:-1,Live
-https://r5---sn-xmjxajvh-jb3zl.googlevideo.com/videoplayback?expire=1618936050&ei=cpB-YMO7ONbJtOUP0aOYyAg&ip=140.213.0.146&id=1e560b040b8aa4d3&itag=18&source=blogger&mh=hu&mm=31&mn=sn-xmjxajvh-jb3zl&ms=au&mv=m&mvi=5&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=11.726&lmt=1618907219624362&mt=1618906844&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgbAY6Tn5SWvVG-qDDequHWcWIzpSGogtS31P31VaJTDYCIQD3BvX-sx9qiD2XvpgRpG50g8Bk-A9U4W883t1vMdK0bw%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAKJiYOipsnhEueiR64ApCNXOyNY-9NysDtD4uUobJcI8AiEA-kZleUjayo16Ts9tqEZS6nrKgfOjfXHrKSYsgmScs0c%3D&cpn=qh4m-9tOKTBgbu6_&c=WEB_EMBEDDED_PLAYER&cver=1.20210418.0.0
-#EXTINF:-1,ASSP1
-http://iptvlink.ga:8888/live/nasvpn/prem/753.m3u8
-#EXTINF:-1,ASSP2
-http://iptvlink.ga:8888/live/nasvpn/prem/756.m3u8
-#EXTINF:-1,ASSP3
-http://iptvlink.ga:8888/live/nasvpn/prem/757.m3u8
-#EXTINF:-1,ASSP4
-http://iptvlink.ga:8888/live/nasvpn/prem/758.m3u8
-#EXTINF:-1,BEIN 1 HD
-http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
-#EXTINF:-1,BEIN 2 HD
-http://iptvlink.ga:8888/live/nasvpn/prem/788.m3u8
-#EXTINF:-1,FOX SPORT 2 HD
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1,FOX SPORT 1 HD
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1,SETANTA 
-http://oncvq5kd.ottclub.xyz/iptv/7GCEMFFA9LAR2P/272/index.m3u8
-#EXTINF:-1,SETANTA 1
-http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1,SETANTA 2
-http://92.43.140.200/s82/04.m3u8
-#EXTINF:-1,SETANTA +
-http://195.158.29.129/live_360/live.stream+_360p.m3u8
-#EXTINF:-1,TRUE PREMIER HD 2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,TRUE SPORT 1
-http://mantul.biz.id:8888/294/294/10459
-#EXTINF:-1,TRUE SPORT 2
-http://mantul.biz.id:8888/294/294/10460
-#EXTINF:-1,TRUE SPORT 3
-http://mantul.biz.id:8888/294/294/10461
-#EXTINF:-1,TRUE SPORT 4
-http://mantul.biz.id:8888/294/294/11983
-#EXTINF:-1,TRUE SPORT 5
-http://mantul.biz.id:8888/294/294/11984
+#EXTINF:-1,~BARINUI~                              
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/80774
+#EXTINF:-1,EUROSPORT 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49232
+#EXTINF:-1,EUROSPORT 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49233
+#EXTINF:-1,SONY PIX HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/96182
+#EXTINF:-1,AND FLIX HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93643
+#EXTINF:-1,AND PRIVE HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93644
+#EXTINF:-1,ANIMAL PLANET WORLD HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93660
+#EXTINF:-1,AXN HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93645
+#EXTINF:-1,HBO INDIA HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93655
+#EXTINF:-1,MN PLUS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93657
+#EXTINF:-1,MNX HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93658
+#EXTINF:-1,MOVIES NOW HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93659
+#EXTINF:-1,NAT GEO WILD HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93662
+#EXTINF:-1,ROMEDY NOW HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93666
+#EXTINF:-1,SONY BBC EARTH ENGLISH HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93667
+#EXTINF:-1,STAR MOVIES HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93668
+#EXTINF:-1,STAR MOVIES SELECT HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93669
+#EXTINF:-1,TEN 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93732
+#EXTINF:-1,TEN 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93733
+#EXTINF:-1,TEN 3 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93734
+#EXTINF:-1,SPORTS 1 HINDI HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93725
+#EXTINF:-1,SPORTS 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93726
+#EXTINF:-1,SPORTS 3
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93727
+#EXTINF:-1,SPORTS SELECT 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93729
+#EXTINF:-1,SPORTS SELECT 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93730
+#EXTINF:-1,SUPERSPORT PLAY HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116674
+#EXTINF:-1,SUPERSPORT MAXIMO 1
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116675
+#EXTINF:-1,SUPERSPORT BLITZ HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116676
+#EXTINF:-1,SUPERSPORT EVENTS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116677
+#EXTINF:-1,SUPERSPORT MOTORSPORT HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116678
+#EXTINF:-1,SUPERSPORT GOLF HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116679
+#EXTINF:-1,SUPERSPORT CRICKET HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116680
+#EXTINF:-1,SUPERSPORT RUGBY HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116681
+#EXTINF:-1,SUPERSPORT TENNIS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116682
+#EXTINF:-1,SUPERSPORT FOOTBAL PLUS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116683
+#EXTINF:-1,SUPERSPORT LALIGA HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116684
+#EXTINF:-1,SUPERSPORT PREMIER LEAGUE HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116685
+#EXTINF:-1,SUPERSPORT FOOTBALL HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116686
+#EXTINF:-1,SUPERSPORT PSL HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116687
+#EXTINF:-1,SUPERSPORT ACTION HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116688
+#EXTINF:-1,SUPERSPORT VARIETY 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116689
+#EXTINF:-1,SUPERSPORT VARIETY 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116690
+#EXTINF:-1,SUPERSPORT VARIETY 3 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116691
+#EXTINF:-1,SUPERSPORT VARIETY 4 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/116692
+#EXTINF:-1,Varzesh TV
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/76537
+#EXTINF:-1,Varzesh 2 TV
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/76538
+#EXTINF:-1,beiN Sports 1
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/60954
+#EXTINF:-1,beiN Sports 2
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/60955
+#EXTINF:-1,beiN Sports 3
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/60956
+#EXTINF:-1,beiN Sports 4
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5229
+#EXTINF:-1,beiN Sports 5
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5231
+#EXTINF:-1,beiN Sports 6
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5233
+#EXTINF:-1,beiN Sports 7
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5235
+#EXTINF:-1,beiN Sports 8
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5237
+#EXTINF:-1,beiN Sports 9
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5239
+#EXTINF:-1,beiN Sports 10
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5240
+#EXTINF:-1,beiN Sports 11
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/5241
+#EXTINF:-1,RMC SPORT 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49213
+#EXTINF:-1,RMC SPORT 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49214
+#EXTINF:-1,RMC SPORT 3 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49215
+#EXTINF:-1,RMC SPORT 4 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49216
+#EXTINF:-1,RMC SPORT 5 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49217
+#EXTINF:-1,RMC SPORT 6 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49218
+#EXTINF:-1,RMC SPORT 7 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49219
+#EXTINF:-1,RMC SPORT 8 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49220
+#EXTINF:-1,RMC SPORT 9 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49221
+#EXTINF:-1,RMC SPORT 10 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49222
+#EXTINF:-1,RMC SPORT 11 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49223
+#EXTINF:-1,RMC SPORT 12 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49224
+#EXTINF:-1,RMC SPORT 13 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49225
+#EXTINF:-1,RMC SPORT 14 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49226
+#EXTINF:-1,RMC SPORT 15 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49227
+#EXTINF:-1,RMC SPORT NEWS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49228
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49229
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49230
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/49231
+#EXTINF:-1,BEIN SPORTS MAX 4
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52518
+#EXTINF:-1,BEIN SPORTS MAX 5
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52519
+#EXTINF:-1,BEIN SPORTS MAX 6
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52520
+#EXTINF:-1,BEIN SPORTS MAX 7
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52521
+#EXTINF:-1,BEIN SPORTS MAX 8
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52522
+#EXTINF:-1,BEIN SPORTS MAX 9
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52523
+#EXTINF:-1,BEIN SPORTS MAX 10
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/52524
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/56531
+#EXTINF:-1,POLSAT SPORT EXTRA HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94941
+#EXTINF:-1,POLSAT SPORT HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94951
+#EXTINF:-1,EXTREME SPORTS HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94952
+#EXTINF:-1,POLSAT SPORT PREM. 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94953
+#EXTINF:-1,POLSAT SPORT PREM. 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94954
+#EXTINF:-1,POLSAT SPORT PREM. 3 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94955
+#EXTINF:-1,POLSAT SPORT PREM. 4 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94956
+#EXTINF:-1,POLSAT SPORT PREM. 5 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94957
+#EXTINF:-1,POLSAT SPORT PREM. 6 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/94958
+#EXTINF:-1,SPORT TV 1 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95408
+#EXTINF:-1,SPORT TV 1 HD NOS
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95409
 #EXTINF:-1,SPORT TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95410
+#EXTINF:-1,SPORT TV 2 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95411
 #EXTINF:-1,SPORT TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95412
+#EXTINF:-1,SPORT TV 3 HD
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95413
 #EXTINF:-1,SPORT TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95414
 #EXTINF:-1,SPORT TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95415
 #EXTINF:-1,SPORT TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1,Match! Futbol 1
-http://46.174.189.51/m1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Match! Futbol 2
-http://46.174.189.51/m2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Match! Futbol 3
-http://46.174.189.51/m3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Champions TV 1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-#EXTINF:-1,Champions TV 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1,Champions TV 3
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/95416
